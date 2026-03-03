@@ -15,9 +15,9 @@
 
 ## 📌 Featured Projects
 
-* 🛒 **E-commerce App** – Built with Next.js + external API
+* 🕹 Job Tracker App – Built with Next.js + Typescript + Tailwind CSS
 * ✅ **Todo App with Supabase** – Authentication & database integration
-* 🎨 **Drag and Drop App** – Interactive UI with React
+* 🎨 **My portfolio website - React + Typescript + Tailwind + EmailJs**
 
 ## 📊 GitHub Stats
 
@@ -29,11 +29,5 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: ![LinkedIN]("https://www.linkedin.com/in/chisom-ukazim/")
-
-Email: ![Email](ukazimchisom@gmail.com)
-
-
-
-* LinkedIn: (add your link)
-* Email: (optional)
+* LinkedIn: ("https://www.linkedin.com/in/chisom-ukazim/")
+* Email: ([ukazimchisom@gmail.com](mailto:ukazimchisom@gmail.com))
