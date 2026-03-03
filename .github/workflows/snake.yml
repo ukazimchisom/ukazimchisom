@@ -1,7 +1,6 @@
 name: Generate Contribution Snake
 
 on:
-  # Run manually or every 12 hours
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
@@ -20,13 +19,10 @@ jobs:
           github_user_name: ukazimchisom
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake to main branch
+      - name: Commit and push snake to main
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git checkout main
-          mkdir -p dist
-          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update contribution snake"
+          git commit -m "Update contribution snake" || echo "No changes to commit"
           git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ukazimchisom/ukazimchisom.git main
