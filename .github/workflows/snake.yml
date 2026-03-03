@@ -1,6 +1,9 @@
 name: Generate Contribution Snake
 
 on:
+  # Run manually or every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -8,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -24,4 +27,4 @@ jobs:
           git checkout -B output
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update contribution snake"
-          git push -f origin output
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ukazimchisom/ukazimchisom.git output
