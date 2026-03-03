@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chisom Ukazim</h1>
 
 <p align="center">
-  💻 Frontend Developer • ⚡ Next.js Enthusiast • 🚀 Building Scalable Web Apps
+  💻 Frontend Developer • ⚡ React, Next.js Enthusiast • 🚀 Building Scalable Web Apps
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 * 💻 Passionate about modern frontend development
-* ⚡ I build with **Next.js, TypeScript, and Tailwind CSS**
+* ⚡ I build with **React, Next.js, TypeScript, and Tailwind CSS**
 * 🌱 Currently learning advanced full-stack architecture
 * 🎯 Focused on building production-ready applications
 * 🤝 Open to internships and junior frontend roles
