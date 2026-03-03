@@ -33,16 +33,19 @@
 ## 📌 Featured Projects
 
 ### 🕹 Job Tracker App
-
-Built with Next.js + TypeScript + Tailwind CSS
+Built with Next.js + TypeScript + Tailwind CSS  
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://job-tracker-app-chisom.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Job-Tracker-App)
 
 ### ✅ Todo App with Supabase
-
-Authentication and real-time database integration
+Authentication and real-time database integration  
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://chisom-todo-app-project.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/todo-app)
 
 ### 🎨 Portfolio Website
-
-React + TypeScript + Tailwind + EmailJS
+React + TypeScript + Tailwind + EmailJS  
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://chisom-ukazim-portfolio-website.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/my-portfolio)
 
 ---
 
