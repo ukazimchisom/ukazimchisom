@@ -16,9 +16,8 @@
 
 * 💻 Passionate about modern frontend development
 * ⚡ I build with **React, Next.js, TypeScript, and Tailwind CSS**
-* 🌱 Currently learning advanced full-stack architecture
 * 🎯 Focused on building production-ready applications
-* 🤝 Open to internships and junior frontend roles
+* 🤝 Open to internships and jobs
 
 ---
 
