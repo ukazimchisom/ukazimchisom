@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chisom Ukazim</h1>
 
 <p align="center">
-  💻 Frontend Developer • ⚡ React, Next.js Enthusiast • 🚀 Building Scalable Web Apps
+  💻 Frontend Developer • Building Full-Stack Apps with Supabase • ⚡ React, Next.js Enthusiast • 🚀 Building Scalable Web Apps
 </p>
 
 <p align="center">
