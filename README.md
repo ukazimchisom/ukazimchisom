@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 * 💻 Passionate about modern frontend development
-* ⚡ I build with **React, Next.js, TypeScript, and Tailwind CSS**
+* ⚡ I build with **React, Next.js, TypeScript, Tailwind CSS, TanStack React Query, Zuztand, and Vitest + Testing Library**
 * 🎯 Focused on building production-ready applications
 * 🤝 Open to internships and jobs
 
@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,tanStack,zustand,vitest,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,git,github,vscode" />
 </p>
 
 ---
