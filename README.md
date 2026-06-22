@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chisom Ukazim</h1>
 
 <p align="center">
-  💻 Frontend Developer • Building Full-Stack Apps with Supabase • ⚡ React, Next.js Enthusiast • 🚀 Building Scalable Web Apps
+  💻 Frontend Developer • Building Full-Stack Apps with Supabase (PostgreSQL + Auth + Storage) • ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
 </p>
 
 <p align="center">
@@ -24,25 +24,30 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,TanStack,Zustand,Vitest,React Hook Form,git,github,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🕹 Job Tracker App
-Built with Next.js + TypeScript + Tailwind CSS  
+### 🕹 E-Commerce Platform
+Built with Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL + Auth), Zustand (with localStorage persistence), Paystack (test mode), DummyJSON API,React Hook Form + Zod
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://tenhive.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Tenhive)
+
+### ✅ Healthcare Appointment Management System 
+Next.js, Typescript, Tailwind css, Supabase (PostgreSQL + Auth + Storage), TanStack React Query, React Hook Form + Zod, Vitest + Testing Library, Email.js
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://docslot-healthcare.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Healthcare-Appointment-Management-System)
+
+### 🎨 Job Tracker
+Next.js + TypeScript + Tailwind + React Hook Form  
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://job-tracker-app-chisom.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Job-Tracker-App)
 
-### ✅ Todo App with Supabase
-Authentication and real-time database integration  
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://chisom-todo-app-project.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/todo-app)
-
 ### 🎨 Portfolio Website
-React + TypeScript + Tailwind + EmailJS  
+React + TypeScript + Tailwind + EmailJS   
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://chisom-ukazim-portfolio-website.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/my-portfolio)
 
@@ -68,7 +73,7 @@ React + TypeScript + Tailwind + EmailJS
 ## 📫 Connect With Me
 
 <p>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/chisom-ukazim/">chisom-ukazim</a><br/>
+  🔗 Portfolio website: <a href="https://chisom-ukazim-portfolio-website.vercel.app/">chisom-ukazim</a><br/>
   📧 Email: ukazimchisom@gmail.com
 </p>
 
