@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,TanStack,Zustand,Vitest,React Hook Form,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,tanStack,zustand,vitest,git,github,vscode" />
 </p>
 
 ---
