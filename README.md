@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chisom Ukazim</h1>
 
 <p align="center">
-  💻 Frontend Developer • Building Full-Stack Apps with Supabase (PostgreSQL + Auth + Storage) • ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
+  💻 Web Developer • Building Full-Stack Apps with Supabase (PostgreSQL + Auth + Storage) • ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-* 💻 Passionate about modern frontend development
+* 💻 Passionate about modern web development
 * ⚡ I build with **React, Next.js, TypeScript, Tailwind CSS, TanStack React Query, Zuztand, and Vitest + Testing Library**
 * 🎯 Focused on building production-ready applications
-* 🤝 Open to internships and jobs
+* 🤝 Open to jobs
 
 ---
 
