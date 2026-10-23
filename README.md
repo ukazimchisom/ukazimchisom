@@ -74,7 +74,7 @@ React + TypeScript + Tailwind + EmailJS
 
 <p>
   🔗 Portfolio website: <a href="https://chisom-ukazim-portfolio-website.vercel.app/">chisom-ukazim</a><br/>
-  📧 Email: ukazimchisom@gmail.com
+  📧 Email: chisomukazim@gmail.com
 </p>
 
 ---
