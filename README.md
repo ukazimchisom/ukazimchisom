@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 * 💻 Passionate about modern web development
-* ⚡ I build with **React, Next.js, TypeScript, Tailwind CSS, TanStack React Query, Zuztand, and Vitest + Testing Library**
+* ⚡ I build with **React, Next.js, TypeScript, Tailwind CSS, TanStack React Query, Zustand, and Vitest + Testing Library**
 * 🎯 Focused on building production-ready applications
 * 🤝 Open to jobs
 
