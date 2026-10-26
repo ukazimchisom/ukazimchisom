@@ -65,7 +65,7 @@
  [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://docolab-zeta.vercel.app/)
  [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/docolab)
 
-### **[DocSlot](https://github.com/ukazimchisom/Healthcare-Appointment-Management-System)**
+### 🩺 **[DocSlot](https://github.com/ukazimchisom/Healthcare-Appointment-Management-System)**
 Healthcare appointment booking platform with patient + admin interfaces. Next.js, Supabase, TanStack Query, Vitest.
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://docslot-healthcare.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/docSlot)
