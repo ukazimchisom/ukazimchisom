@@ -34,11 +34,11 @@
 
 ## 💼 Experience
 
-**Frontend Developer — Bizzmarrow Technologies** *(Contract · Hybrid · May 2025 – Jan 2026)*
+**Frontend Developer — Bizzmarrow Technologies** *(Contract · Hybrid · Feb 2025 – Jan 2026)*
 - Shipped a production-ready job platform using Next.js, TypeScript, Tailwind CSS
 - Built 10+ reusable accessible React components, reducing feature dev time by 30%
 
-**Frontend Developer — Malic Movies Company** *(Remote · Jun 2024 – Oct 2024)*
+**Frontend Developer — Malic Movies Company** *(Remote · Jun 2024 – Nov 2025)*
 - Led frontend for a responsive SEO-optimized content platform
 - Reduced page load times by 50% via image optimization, code splitting, caching
 
