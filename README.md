@@ -6,7 +6,9 @@
   💻 **Frontend Developer** • building fast, accessible web experiences with ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
 </p>
 
+<p align="center">
 📍 Abuja, Nigeria · 🌍 Open to remote roles · 💼 [Portfolio](https://chisom-ukazim-portfolio.vercel.app) · 📧 [chisomukazim@gmail.com](mailto:chisomukazim@gmail.com)
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+%2B+TypeScript+Lover;Building+Real-World+Projects;Open+to+Opportunities" />
@@ -16,10 +18,10 @@
 
 ## 🛠 Tech I work with
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Zustand · TanStack Query
-**Backend / BaaS:** Supabase (PostgreSQL + Auth + Storage) · REST APIs
-**Testing:** Vitest · React Testing Library
-**Tooling:** Git · GitHub · Vite · Vercel · Figma
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Zustand · TanStack Query </br>
+**Backend / BaaS:** Supabase (PostgreSQL + Auth + Storage) · REST APIs </br>
+**Testing:** Vitest · React Testing Library </br>
+**Tooling:** Git · GitHub · Vite · Vercel · Figma </br>
 
 ---
 
