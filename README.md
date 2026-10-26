@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Chisom Ukazim</h1>
 
 <p align="center">
-  💻 Web Developer • Building Full-Stack Apps with Supabase (PostgreSQL + Auth + Storage) • ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
+  💻 **Frontend Developer** • building fast, accessible web experiences with ⚡ React, Next.js, Typescript Enthusiast • 🚀 Building Scalable Web Apps
 </p>
+
+📍 Abuja, Nigeria · 🌍 Open to remote roles · 💼 [Portfolio](https://chisom-ukazim-portfolio.vercel.app) · 📧 [chisomukazim@gmail.com](mailto:chisomukazim@gmail.com)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+%2B+TypeScript+Lover;Building+Real-World+Projects;Open+to+Opportunities" />
@@ -12,16 +14,15 @@
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech I work with
 
-* 💻 Passionate about modern web development
-* ⚡ I build with **React, Next.js, TypeScript, Tailwind CSS, TanStack React Query, Zustand, and Vitest + Testing Library**
-* 🎯 Focused on building production-ready applications
-* 🤝 Open to jobs
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Zustand · TanStack Query
+**Backend / BaaS:** Supabase (PostgreSQL + Auth + Storage) · REST APIs
+**Testing:** Vitest · React Testing Library
+**Tooling:** Git · GitHub · Vite · Vercel · Figma
 
 ---
 
-## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,git,github,vscode" />
@@ -29,27 +30,45 @@
 
 ---
 
+## 💼 Experience
+
+**Frontend Developer — Bizzmarrow Technologies** *(Contract · Hybrid · May 2025 – Jan 2026)*
+- Shipped a production-ready job platform using Next.js, TypeScript, Tailwind CSS
+- Built 10+ reusable accessible React components, reducing feature dev time by 30%
+
+**Frontend Developer — Malic Movies Company** *(Remote · Jun 2024 – Oct 2024)*
+- Led frontend for a responsive SEO-optimized content platform
+- Reduced page load times by 50% via image optimization, code splitting, caching
+
+---
+
+## 🎯 Currently
+
+- 📚 Deepening my knowledge of React Server Components and Next.js App Router patterns
+- 🧪 Writing more tests (Vitest + RTL) across my projects
+- 🤝 **Open to frontend or frontend-leaning full-stack roles** — remote or Abuja-based
+
+---
+
+
 ## 📌 Featured Projects
 
-### 🕹 E-Commerce Platform
-Built with Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL + Auth), Zustand (with localStorage persistence), Paystack (test mode), DummyJSON API,React Hook Form + Zod
+### 🔨 **[Tenhive](https://github.com/ukazimchisom/E-commerce-Platform)**
+ Full-stack e-commerce platform with customer storefront + admin panel. Next.js 15, Supabase, Paystack, Zustand.
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://tenhive.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Tenhive)
 
-### ✅ Healthcare Appointment Management System 
-Next.js, Typescript, Tailwind css, Supabase (PostgreSQL + Auth + Storage), TanStack React Query, React Hook Form + Zod, Vitest + Testing Library, Email.js
+### 📝 **[Docolab](https://github.com/ukazimchisom/docolab)** 
+ Real-time collaborative document editor with AI summaries. Next.js, Supabase Realtime (Yjs), TipTap, Gemini API.
+ [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://docolab-zeta.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/docolab)
+
+### **[DocSlot](https://github.com/ukazimchisom/Healthcare-Appointment-Management-System)**
+Healthcare appointment booking platform with patient + admin interfaces. Next.js, Supabase, TanStack Query, Vitest.
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://docslot-healthcare.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Healthcare-Appointment-Management-System)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/docSlot)
 
-### 🎨 Job Tracker
-Next.js + TypeScript + Tailwind + React Hook Form  
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://job-tracker-app-chisom.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/Job-Tracker-App)
-
-### 🎨 Portfolio Website
-React + TypeScript + Tailwind + EmailJS   
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://chisom-ukazim-portfolio-website.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ukazimchisom/my-portfolio)
+> Every project above is a full-stack build with auth, database, and tests.
 
 ---
 
@@ -70,12 +89,11 @@ React + TypeScript + Tailwind + EmailJS
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's talk
 
-<p>
-  🔗 Portfolio website: <a href="https://chisom-ukazim-portfolio-website.vercel.app/">chisom-ukazim</a><br/>
-  📧 Email: chisomukazim@gmail.com
-</p>
+- 🌐 Portfolio: [chisom-ukazim-portfolio.vercel.app](https://chisom-ukazim-portfolio.vercel.app)
+- 💼 LinkedIn: [https://www.linkedin.com/in/chisom-ukazim]
+- 📧 Email: [chisomukazim@gmail.com](mailto:chisomukazim@gmail.com)
 
 ---
 
